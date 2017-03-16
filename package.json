@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test_server": "mocha",
-    "test": "node test/index.js"
+    "test_server": "mocha"
   },
   "keywords": [],
   "author": "",
